@@ -1,0 +1,3 @@
+[submodule "tempsite/GitHubfolder"]
+	path = tempsite/GitHubfolder
+	url = git@github.com:shalini-v84/GitHubfolder.git
